@@ -2,6 +2,8 @@
 
 SMS Bomb, bir telefon numarasına belirli aralıklarla çok sayıda SMS göndermeyi amaçlayan bir Python uygulamasıdır. Bu araç, SMS gönderim işlemlerinin otomatikleştirilmesi için kullanılabilir. Ancak, SMS bombardımanının etik ve yasal olmadığını unutmayın. Lütfen bu tür araçları yalnızca izin verilen ve etik amaçlar için kullanın.
 
+![Resim Açıklaması](https://github.com/infinitylinkkk/infinitylinkkk/blob/f94ed0cce3a1c8de2ca12b93447d4c87dc1dbb35/IMG_20240806_183713.jpg)
+
 ## Özellikler
 
 - Belirli bir telefon numarasına SMS gönderme
