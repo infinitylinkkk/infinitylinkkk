@@ -19,6 +19,7 @@ SMS Bomb, bir telefon numarasına belirli aralıklarla çok sayıda SMS gönderm
    Python 3.x sürümünü ve gerekli modülleri kurduktan sonra, projenin kök dizininde terminal veya komut istemcisinde şu komutu çalıştırın:
 
    ```bash
-   git clone 
-   pip install -r requirements.txt
-   cd infinitylink.py
+   git clone https://github.com/infinitylinkkk/infinitylinkkk.git
+   cd infinitylinkkk
+   pip3 install -r requirements.txt
+   python3 infinitylink.py
